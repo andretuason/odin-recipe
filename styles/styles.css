@@ -1,0 +1,16 @@
+body{
+    background-color: bisque;
+}
+.main-div{
+    background-image: url("../images/spengbob.png");
+    min-width: 400px;
+    text-align: center;
+    margin: 0px 30%;
+    padding: 10px 5%;
+}
+li{
+    margin: 1em 10%;
+    text-align: justify;
+    
+    
+}
